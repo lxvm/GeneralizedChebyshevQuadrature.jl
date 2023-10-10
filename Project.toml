@@ -1,0 +1,7 @@
+name = "GeneralizedChebyshevQuadrature"
+uuid = "2bea15bd-da96-4630-8a85-1682e379a892"
+authors = ["lxvm <lorenzo@vanmunoz.com>"]
+version = "0.1.0"
+
+[deps]
+LinearAlgebra = "37e2e46d-f89d-539d-b4ee-838fcccc9c8e"
